@@ -7,11 +7,8 @@ This repository showcases our practical understanding of key AI tools—**Scikit
 
 ## 👥 Group Members
 
-- [Your Name 1] – [email or GitHub handle]
-- [Your Name 2]
-- [Your Name 3]
-- [Your Name 4]
-- [Your Name 5]
+- [Gathigi Moses Muiruri] – [gathimoses@gmail.com]
+
 
 ---
 
@@ -26,9 +23,9 @@ This assignment demonstrates practical and theoretical knowledge of popular AI t
 
 | Task | Description | Tool | Notebook |
 |------|-------------|------|----------|
-| **Task 1** | Decision Tree Classification of Iris Flowers | `Scikit-learn` | [`iris_classification.ipynb`](./iris_classification.ipynb) |
-| **Task 2** | CNN for MNIST Digit Recognition | `TensorFlow` | [`mnist_cnn_tensorflow.ipynb`](./mnist_cnn_tensorflow.ipynb) |
-| **Task 3** | Named Entity Recognition + Sentiment | `spaCy` | [`amazon_reviews_ner_sentiment.ipynb`](./amazon_reviews_ner_sentiment.ipynb) |
+| **Task 1** | Decision Tree Classification of Iris Flowers | `Scikit-learn` | [`iris_classification.ipynb`](./task1.py) |
+| **Task 2** | CNN for MNIST Digit Recognition | `TensorFlow` | [`mnist_cnn_tensorflow.ipynb`](./task2.py) |
+| **Task 3** | Named Entity Recognition + Sentiment | `spaCy` | [`amazon_reviews_ner_sentiment.ipynb`](./task3.py) |
 
 ---
 
