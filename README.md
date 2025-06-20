@@ -8,6 +8,11 @@ This repository showcases our practical understanding of key AI tools—**Scikit
 ## 👥 Group Members
 
 - [Gathigi Moses Muiruri] – [gathimoses@gmail.com]
+- [Odongo Isaiah] – [odongoreagan19@gmail.com]
+- [Keren Hapuch Ntinyari] – [kerenhapuch68@gmail.com]
+- [Jebichi Joyce] – [jebichiijoyce@gmail.com]
+- [Palpable Smart] – [palpable237@gmail.com]
+
 
 
 ---
