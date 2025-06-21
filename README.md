@@ -47,7 +47,7 @@ Each model was evaluated using:
 
 See our full answers to theoretical questions, comparative analysis, and insights in the PDF report below.
 
-📄 **[View Full Report (PDF)](./report.pdf)**
+📄 **[View Full Report (PDF)](./report93.pdf)**
 
 ---
 
@@ -78,7 +78,7 @@ We reflected on biases in sentiment and digit recognition models and discussed m
 - TensorFlow Fairness Indicators
 - Custom rule-based logic in spaCy
 
-More details in the [Ethics Section](./report.pdf).
+More details in the [Ethics Section](./report93.pdf).
 
 ---
 
