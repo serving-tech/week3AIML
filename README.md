@@ -5,7 +5,7 @@ This repository showcases our practical understanding of key AI tools—**Scikit
 
 ---
 
-## 👥 Group Members
+## Group Members
 
 - [Gathigi Moses Muiruri] – [gathimoses@gmail.com]
 - [Odongo Isaiah] – [odongoreagan19@gmail.com]
@@ -17,14 +17,14 @@ This repository showcases our practical understanding of key AI tools—**Scikit
 
 ---
 
-## 🎯 Project Objective
+## Project Objective
 
 > **Theme**: *Mastering the AI Toolkit*  
 This assignment demonstrates practical and theoretical knowledge of popular AI tools by solving real-world problems, implementing models, evaluating performance, and reflecting on ethical considerations.
 
 ---
 
-## 🧪 Project Structure
+## Project Structure
 
 | Task | Description | Tool | Notebook |
 |------|-------------|------|----------|
@@ -34,7 +34,7 @@ This assignment demonstrates practical and theoretical knowledge of popular AI t
 
 ---
 
-## 📊 Evaluation Metrics
+## Evaluation Metrics
 
 Each model was evaluated using:
 - **Accuracy**
@@ -43,7 +43,7 @@ Each model was evaluated using:
 
 ---
 
-## 🧠 Theoretical Section
+## Theoretical Section
 
 See our full answers to theoretical questions, comparative analysis, and insights in the PDF report below.
 
@@ -51,7 +51,7 @@ See our full answers to theoretical questions, comparative analysis, and insight
 
 ---
 
-## 🎥 3-Minute Presentation
+## 3-Minute Presentation
 
 All group members participated in a video explaining:
 - Model goals & logic
@@ -59,11 +59,10 @@ All group members participated in a video explaining:
 - Ethical considerations
 - What we learned
 
-🎬 **[Watch Our Presentation](link-to-your-video)**
 
 ---
 
-## 🤖 Tools Used
+## Tools Used
 
 - 🧮 Scikit-learn
 - 🔢 TensorFlow / Keras
@@ -73,17 +72,17 @@ All group members participated in a video explaining:
 
 ---
 
-## 🔐 Ethical Reflection
+## Ethical Reflection
 
 We reflected on biases in sentiment and digit recognition models and discussed mitigation tools such as:
 - TensorFlow Fairness Indicators
 - Custom rule-based logic in spaCy
 
-More details in the [Ethics Section](link-to-report-pdf#ethics).
+More details in the [Ethics Section](./report.pdf).
 
 ---
 
-## 🛠️ Running the Notebooks
+## Running the Notebooks
 
 1. Open each `.ipynb` notebook in **Google Colab** or Jupyter.
 2. Ensure you have installed dependencies like `scikit-learn`, `tensorflow`, `spacy`.
