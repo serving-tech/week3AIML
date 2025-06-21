@@ -47,7 +47,7 @@ Each model was evaluated using:
 
 See our full answers to theoretical questions, comparative analysis, and insights in the PDF report below.
 
-📄 **[View Full Report (PDF)](link-to-your-pdf-report)**
+📄 **[View Full Report (PDF)](./report.pdf)**
 
 ---
 
